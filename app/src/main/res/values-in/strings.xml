@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Movie App</string>
+    <string name="main_edt_text_search_hint">Judul Film</string>
+    <string name="main_search_action">Cari</string>
+    <string name="short_dummy_text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes...</string>
+    <string name="api_language">en-US</string>
+    <string name="network_error">Koneksi terputus</string>
+    <string name="server_error">Server mengalami masalah</string>
+    <string name="movie_detail_rating">Penilaian</string>
+    <string name="movie_detail_duration">Durasi</string>
+    <string name="movie_detail_language">Bahasa</string>
+    <string name="movie_detail_release_date">Tanggal Rilis</string>
+    <string name="movie_detail_overview">Ikhtisar</string>
+    <string name="movie_detail_genres">Genre</string>
+    <string name="movie_now_playing_title">Sedang Tayang</string>
+    <string name="movie_up_playing_title">Akan Datang</string>
+    <string name="movie_search_movie_title">Cari Film</string>
+    <string name="language_setting">Pengaturan Bahasa</string>
+</resources>

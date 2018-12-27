@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Movie App</string>
+    <string name="main_edt_text_search_hint">Movie Title</string>
+    <string name="main_search_action">Search</string>
+    <string name="short_dummy_text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes...</string>
+    <string name="api_language">en-US</string>
+    <string name="network_error">No internet connection</string>
+    <string name="server_error">Server error</string>
+    <string name="movie_detail_rating">Rating</string>
+    <string name="movie_detail_duration">Duration</string>
+    <string name="movie_detail_language">Language</string>
+    <string name="movie_detail_release_date">Release</string>
+    <string name="movie_detail_overview">Overview</string>
+    <string name="movie_detail_genres">Genres</string>
+    <string name="movie_now_playing_title">Now Playing</string>
+    <string name="movie_up_playing_title">Up Coming</string>
+    <string name="movie_search_movie_title">Search Movie</string>
+    <string name="language_setting">Language Setting</string>
+</resources>
