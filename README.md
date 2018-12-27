@@ -1,2 +1,2 @@
-# MADE-Submission-1
-My Submission 1 in Menjadi Android Developer Expert Class
+# MADE-Submission-2
+My Submission 2 in Menjadi Android Developer Expert Class
